@@ -4,17 +4,4 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-
-    <color name="selected_color">#dd3377</color>
-    <color name="price_color">#D30775</color>
-    <color name="more_color">#FF740D</color>
-
-
-    <!-- customer view and paint -->
-    <color name="black">#000</color>
-    <color name="white">#FFFFFF</color>
-    <color name="gray">#7c7c7c</color>
-
-
-
 </resources>

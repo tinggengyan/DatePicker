@@ -1,4 +1,4 @@
-package com.thousandsunny.datepicker.basic;
+package com.steve.lib.basic;
 
 import android.content.Context;
 import android.support.v7.widget.GridLayoutManager;
@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.widget.FrameLayout;
 
-import com.thousandsunny.datepicker.R;
+import com.steve.lib.R;
 
 
 /**

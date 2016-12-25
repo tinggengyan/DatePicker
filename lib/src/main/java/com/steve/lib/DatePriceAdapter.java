@@ -1,4 +1,4 @@
-package com.thousandsunny.datepicker;
+package com.steve.lib;
 
 import android.content.res.Resources;
 import android.support.v7.widget.RecyclerView;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.thousandsunny.datepicker.basic.BaseDatePriceAdapter;
+import com.steve.lib.basic.BaseDatePriceAdapter;
 
 import java.util.ArrayList;
 

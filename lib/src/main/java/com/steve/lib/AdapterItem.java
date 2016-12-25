@@ -1,4 +1,4 @@
-package com.thousandsunny.datepicker;
+package com.steve.lib;
 
 import android.support.annotation.IntDef;
 
